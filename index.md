@@ -13,4 +13,5 @@ featured_image: /images/karim.jpg
 * Smallholding and rural life
 * Minimalism and simplicitiy
 * Low-impact living
-* Jazz, and Open Source
+* Open Source
+* Jazz
