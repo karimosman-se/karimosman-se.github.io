@@ -11,5 +11,6 @@ featured_image: /images/karim.jpg
 * Observing species at [Observation.org](https://observation.org/users/1051947/)
 * Ham radio operator: [QRZ.com](https://www.qrz.com/db/PD1KRM)
 * Smallholding and rural life
-* Minimalism and low-impact living
-* Open Source
+* Minimalism and simplicitiy
+* Low-impact living
+* Jazz, and Open Source
