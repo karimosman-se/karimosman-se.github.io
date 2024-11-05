@@ -5,7 +5,7 @@ featured_image: /images/karim.jpg
 ---
 **Welcome!** I’m Karim, a tech specialist with a passion for nature and conservation. My work is dedicated to supporting non-profit organizations focused on preserving nature, particularly in Nordic regions. By combining my expertise in Computer Science with a commitment to environmental causes, I aim to help organizations optimize their technical resources, expand their reach, and strengthen their impact.
 
-**Things I do and enjoy**
+**Things I do and enjoy:**
 * Webmaster at [Skydda Skogen - Protect the Forest Sweden](https://skyddaskogen.se/)
 * Earth Science student at [Stockholm University](https://www.su.se/department-of-geological-sciences/)
 * Observing species at [Observation.org](https://observation.org/users/1051947/)
@@ -15,7 +15,7 @@ featured_image: /images/karim.jpg
 * Smallholding and rural life
 * Open Source and Jazz
 
-**Certifications**
+**Certifications:**
 * Drone Pilot License (A1-A3, A2)
 * Flight Radio Telephony Operator License
 * HAM Radio Amateur Station License (PD1KRM)
@@ -23,7 +23,7 @@ featured_image: /images/karim.jpg
 * International Certificate for Operators of Pleasure Craft
 * Certified Yoga Instructor
 
-**Publications**
+**Publications:**
 * [Collecting Earth Observation Data Using Drones and Open-Source Software](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y8oQIcwAAAAJ&citation_for_view=Y8oQIcwAAAAJ:e5wmG9Sq2KIC)
 * [How Rising Sea Levels Affect Drinking Water in Sweden](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y8oQIcwAAAAJ&citation_for_view=Y8oQIcwAAAAJ:R3hNpaxXUhUC)
 * [Global Population Control Policy as a Climate Solution](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y8oQIcwAAAAJ&citation_for_view=Y8oQIcwAAAAJ:RHpTSmoSYBkC)
