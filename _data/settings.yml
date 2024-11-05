@@ -66,8 +66,8 @@ font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css?family=Inconsolata:300,400|Muli:400,400i,600" rel="stylesheet">'
   title_font: '"Inconsolata"'
   body_font: '"Inconsolata"'
-  regular_weight: 100
-  bold_weight: 400
+  regular_weight: 200
+  bold_weight: 600
   site_title:
     small_size: 25
     medium_size: 30
@@ -91,7 +91,7 @@ font_settings:
     small_size: 25
     medium_size: 35
     large_size: 35
-    weight: 100
+    weight: 200
     letter_spacing: -0.02
     line_height: 1.2
   h2:
@@ -133,7 +133,7 @@ font_settings:
     small_size: 16
     medium_size: 18
     large_size: 20
-    weight: 100
+    weight: 200
     letter_spacing: 0
     line_height: 1.6
   blockquote:
