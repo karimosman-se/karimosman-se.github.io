@@ -15,9 +15,6 @@ featured_image: /images/karim.jpg
 * Smallholding and rural life
 * Open Source and Jazz
 
-<br />
-
-
 **Certifications**
 * Drone Pilot License (A1-A3, A2)
 * Flight Radio Telephony Operator License
@@ -25,8 +22,6 @@ featured_image: /images/karim.jpg
 * Marine VHF Radio License (PE2636)
 * International Certificate for Operators of Pleasure Craft
 * Certified Yoga Instructor
-
-<br />
 
 **Publications**
 * Draft: [Collecting Earth Observation Data Using Drones and Open-Source Software](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y8oQIcwAAAAJ&citation_for_view=Y8oQIcwAAAAJ:e5wmG9Sq2KIC)
