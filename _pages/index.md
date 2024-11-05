@@ -23,7 +23,7 @@ featured_image: /images/karim.jpg
 * International Certificate for Operators of Pleasure Craft
 * Certified Yoga Instructor
 
-**Publications:**
+**Research:**
 * [Collecting Earth Observation Data Using Drones and Open-Source Software](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y8oQIcwAAAAJ&citation_for_view=Y8oQIcwAAAAJ:e5wmG9Sq2KIC)
 * [How Rising Sea Levels Affect Drinking Water in Sweden](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y8oQIcwAAAAJ&citation_for_view=Y8oQIcwAAAAJ:R3hNpaxXUhUC)
 * [Global Population Control Policy as a Climate Solution](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y8oQIcwAAAAJ&citation_for_view=Y8oQIcwAAAAJ:RHpTSmoSYBkC)
