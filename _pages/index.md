@@ -13,6 +13,7 @@ featured_image: /images/karim.jpg
 * Ham radio operator: [QRZ.com](https://www.qrz.com/db/PD1KRM)
 * Smallholding, open source, and jazz
 * Minimalism and low-impact living
+* Breakdancer
 
 **Certifications:**
 * Drone Pilot License (A1-A3, A2)
