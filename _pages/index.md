@@ -7,7 +7,7 @@ featured_image: /images/karim.jpg
 
 **Things I do and enjoy:**
 * Webmaster at [Skydda Skogen](https://skyddaskogen.se/)
-* Earth Science student at [Stockholm University](https://www.su.se/department-of-geological-sciences/)
+* Earth Science at [Stockholm University](https://www.su.se/department-of-geological-sciences/)
 * Observing species at [Observation.org](https://observation.org/users/1051947/)
 * Geocaching at [Geocaching.com](https://www.geocaching.com/p/?guid=c5f61c04-2d1e-458b-82f8-852834c3554e)
 * Ham radio operator: [QRZ.com](https://www.qrz.com/db/PD1KRM)
