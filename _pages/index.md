@@ -3,7 +3,7 @@ title: Karim Osman
 description:
 featured_image: /images/karim.jpg
 ---
-**Welcome!** I’m Karim, a tech specialist with a passion for nature preservayion in Sweden.
+**Welcome!** I’m Karim, a tech nerd with a passion for nature preservayion in Sweden.
 
 **Things I do and enjoy:**
 * Webmaster at [Skydda Skogen](https://skyddaskogen.se/)
