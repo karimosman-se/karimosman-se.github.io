@@ -3,7 +3,7 @@ title: Karim Osman
 description:
 featured_image: /images/karim.jpg
 ---
-**Welcome!** I’m Karim, a tech specialist with a passion for nature and conservation. My work is dedicated to supporting non-profit organizations focused on preserving nature, particularly in Nordic regions. By combining my expertise in Computer Science with a commitment to environmental causes, I aim to help organizations optimize their technical resources and strengthen their impact.
+**Welcome!** I’m Karim, a tech specialist with a passion for nature and conservation. My work is dedicated to supporting non-profit organizations focused on preserving nature, particularly in Sweden.
 
 **Things I do and enjoy:**
 * Webmaster at [Skydda Skogen](https://skyddaskogen.se/)
